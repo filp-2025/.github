@@ -4,10 +4,11 @@
 
 ----
 
-| Группа | Организация в github                          |
-|--------|-----------------------------------------------|
-| КН-201 | https://github.com/filp-2025-filp-2025-khmo-1 |
-| КН-202 | https://github.com/filp-2025-filp-2025-khmo-1 |
-| КН-203 | https://github.com/filp-2025-filp-2025-khmo-1 |
-| КН-204 | https://github.com/filp-2025-filp-2025-khmo-1 |
-| Другая | https://github.com/filp-2025-other            |
+| Группа | Организация в github                |
+|--------|-------------------------------------|
+| КНМО-1 | https://github.com/filp-2025-khmo-1 |
+| КНМО-2 | https://github.com/filp-2025-khmo-2 |
+| КНМО-3 | https://github.com/filp-2025-khmo-3 |
+| КНМО-4 | https://github.com/filp-2025-khmo-4 |
+| КНМО-5 | https://github.com/filp-2025-khmo-5 |
+| Другая | https://github.com/filp-2025-other  |
